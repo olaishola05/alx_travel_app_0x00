@@ -1,0 +1,8 @@
+../venv/
+*.pyc
+__pycache__/
+alx_travel_app/.env
+.idea/*
+.env
+.idea/
+.DS_Store
